@@ -1,6 +1,7 @@
 {
   "devDependencies": {
     "cypress": "^12.9.0",
-    "cypress-xpath": "^2.0.1"
+    "cypress-xpath": "^2.0.1",
+    "prettier": "2.8.7"
   }
 }
