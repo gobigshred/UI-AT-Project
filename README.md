@@ -1,7 +1,11 @@
 # UI-AT-Project
 
 ### Command to launch Cypress Client
-npx cypress open
+```npx cypress open```
+
+
+### Test File
+https://github.com/gobigshred/UI-AT-Project/blob/main/cypress/e2e/test_company_cam_projects.cy.js
 
 
 ### Demonstration of the actual test being executed
@@ -25,7 +29,7 @@ matches what was entered in the process of creating it.
 
 ### Architectural Improvements
 - Add Fixtures
-  - Create
+  - Setup
     - Anything that's going to be used for setting up test data. In this case, we could set up the
     login steps as a setup fixture.
   - Tear Down
